@@ -1,0 +1,24 @@
+{
+  "name": "mb2thw",
+  "version": "1.0.0",
+  "description": "A parser for various Touhou Wiki article templates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/bin/mocha --recursive --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehTotalPwnage/mb2thw.git"
+  },
+  "keywords": [
+    "musicbrainz",
+    "touhou",
+    "wikitext"
+  ],
+  "author": "Michael William Nguyen (TehTotalPwnage)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TehTotalPwnage/mb2thw/issues"
+  },
+  "homepage": "https://github.com/TehTotalPwnage/mb2thw#readme"
+}
