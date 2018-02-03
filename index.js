@@ -10,5 +10,9 @@ BaseParser.prepare().then(async function(parser) {
   let template = new MusicArticle(parser);
   return await template.parse();
 }).then(function(wikitext) {
+  // eslint-disable-next-line no-console
   console.log(wikitext);
+}).catch(function(error) {
+  // eslint-disable-next-line no-console
+  console.error(error);
 });
