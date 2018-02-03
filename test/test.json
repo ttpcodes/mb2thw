@@ -1,0 +1,115 @@
+{
+  "album": {
+    "arrangements": "vocal and instrumental",
+    "banner": {
+      "filename": "SOUND_HOLIC_bnr_sml.jpg",
+      "resolution": ""
+    },
+    "convention": "Comiket 91",
+    "coverart": {
+      "filename": "SDHC-0066.jpg",
+      "caption": "Pictured: [[Sakuya Izayoi]] flinging knives in the direction of the viewer."
+    },
+    "genres": [
+      "Eurobeat", "Rock", "Pop", "Trance", "Jazz", "Metal"
+    ],
+    "titlejprom": "Izayoi -IZAYOI-",
+    "titleen": "IZAYOI",
+    "type": ""
+  },
+  "tracks": {
+    "1": {
+      "works": {
+        "{{CoSD}}": [
+          "{{lang|ja|童祭　～}} Innocent Treasures"
+        ]
+      }
+    },
+    "2": {
+      "works": {
+        "{{PoFV}}": [
+          "{{lang|ja|フラワリングナイト}}"
+        ],
+        "{{EoSD}}": [
+          "{{lang|ja|月時計　～ ルナ・ダイアル}}"
+        ]
+      }
+    },
+    "3": {
+      "works": {
+        "{{MoF}}": [
+          "{{lang|ja|神々が恋した幻想郷}}"
+        ]
+      }
+    },
+    "4": {
+      "works": {
+        "{{TD}}": [
+          "{{lang|ja|素敵な墓場で暮しましょ}}"
+        ]
+      }
+    },
+    "5": {
+      "titleen": "Silence ~The Coffin Girl~",
+      "works": {
+        "{{EoSD}}": [
+          "亡き王女の為のセプテット"
+        ]
+      }
+    },
+    "6": {
+      "works": {
+        "{{PCB}}": [
+          "{{lang|ja|無何有の郷　～}} Deep Mountain",
+          "{{lang|ja|クリスタライズシルバー}}"
+        ]
+      }
+    },
+    "7": {
+      "titleen": "The Distant Universe",
+      "works": {
+        "{{UFO}}": [
+          "{{lang|ja|感情の摩天楼　～}} Cosmic Mind"
+        ]
+      }
+    },
+    "8": {
+      "works": {
+        "{{MA}}": [
+          "{{lang|ja|大空魔術　～}} Magical Astronomy"
+        ]
+      }
+    },
+    "9": {
+      "titleen": "Changing My Heart",
+      "works": {
+        "{{HM}}": [
+          "{{lang|ja|亡失のエモーション}}"
+        ]
+      }
+    },
+    "10": {
+      "works": {
+        "{{DS}}": [
+          "{{lang|ja|無間の鐘　～}} Infinite Nightmare"
+        ]
+      }
+    },
+    "11": {
+      "works": {
+        "{{DDC}}": [
+          "{{lang|ja|秘境のマーメイド}}",
+          "{{lang|ja|孤独なウェアウルフ}}",
+          "{{lang|ja|輝く針の小人族　～}} Little Princess"
+        ]
+      }
+    },
+    "12": {
+      "works": {
+        "{{IN}}": [
+          "{{lang|ja|千年幻想郷　～}} History of the Moon"
+        ]
+      }
+    }
+  }
+}

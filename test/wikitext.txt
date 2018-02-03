@@ -1,0 +1,152 @@
+{{MusicArticle
+| titlejp = 十六夜 -IZAYOI-
+| titlejprom = Izayoi -IZAYOI-
+| titleen = IZAYOI
+| group = SOUND HOLIC
+| released    =2016-12-29
+| convention  =Comiket 91
+| tracks      =12
+| length      =52:08
+| catalogno   =SDHC-0066
+| genre = {{Genre|Eurobeat}}, {{Genre|Rock}}, {{Genre|Pop}}, {{Genre|Trance}}, {{Genre|Jazz}}, {{Genre|Metal}}
+| website     =http://www.sound-holic.com/c91/work/work03.html
+| image       =SDHC-0066.jpg
+| caption     =Pictured: [[Sakuya Izayoi]] flinging knives in the direction of the viewer.
+| banner      =SOUND_HOLIC_bnr_sml.jpg
+| banner_res  =
+| arranger =
+MasKaleido
+: 709sec.
+: 隣人 (ZYTOKINE / CYTOKINE)
+: zikee
+: VALLEYSTONE (Bad Fennec Records)
+: バルツ
+: DJ Command (Eurobeat Union)
+| lyricist =
+Blue E
+: 隣人 (ZYTOKINE / CYTOKINE)
+: Nana Takahashi
+| vocalist =
+Nana Takahashi
+: YURiCa (cordelia)
+: 709sec.
+: aki
+: 3L (NJK Record)
+| producer =
+SOUND HOLIC
+| illustrator =
+| designer =
+| masterer =
+SOUND HOLIC
+| other_staff =
+; recording
+: SOUND HOLIC
+; mix
+: SOUND HOLIC
+: DJ Command (Eurobeat Union)
+; instrument
+: Josh
+: バルツ
+| autogendesc =vocal and instrumental
+| tracklist   =
+* {{Track|1|WA.RA.BE.|03:25}}
+** arrangement: MasKaleido
+** lyrics: 
+** vocals: 
+** mix: SOUND HOLIC
+** original title: {{lang|ja|童祭　～}} Innocent Treasures
+** source: {{CoSD}}
+* {{Track|2|PRESERVED VAMPIRE|03:31|lyrics=Lyrics: PRESERVED VAMPIRE}}
+** arrangement: MasKaleido
+** lyrics: Blue E
+** vocals: Nana Takahashi
+** instrument: Josh
+** mix: SOUND HOLIC
+** original title: {{lang|ja|フラワリングナイト}}
+** source: {{PoFV}}
+** original title: {{lang|ja|月時計　～ ルナ・ダイアル}}
+** source: {{EoSD}}
+* {{Track|3|MAHOROBAGRAPHIE|04:21|lyrics=Lyrics: MAHOROBAGRAPHIE}}
+** arrangement: 709sec.
+** lyrics: Blue E
+** vocals: YURiCa (cordelia),709sec.
+** instrument: バルツ
+** mix: SOUND HOLIC
+** original title: {{lang|ja|神々が恋した幻想郷}}
+** source: {{MoF}}
+* {{Track|4|DEADMAN WALKING|05:21|lyrics=Lyrics: DEADMAN WALKING}}
+** arrangement: 隣人 (ZYTOKINE / CYTOKINE)
+** lyrics: 隣人 (ZYTOKINE / CYTOKINE)
+** vocals: aki
+** mix: SOUND HOLIC
+** original title: {{lang|ja|素敵な墓場で暮しましょ}}
+** source: {{TD}}
+* {{Track|5|沈黙 ～セルクイユの少女～|04:52|lyrics=Lyrics: 沈黙 ～セルクイユの少女～}}
+** ''Silence ~The Coffin Girl~''
+** arrangement: zikee
+** lyrics: Nana Takahashi
+** vocals: Nana Takahashi
+** mix: SOUND HOLIC
+** original title: 亡き王女の為のセプテット
+** source: {{EoSD}}
+* {{Track|6|CRYSTALLIZED|03:54|lyrics=Lyrics: CRYSTALLIZED}}
+** arrangement: MasKaleido
+** lyrics: Blue E
+** vocals: 3L (NJK Record)
+** mix: SOUND HOLIC
+** original title: {{lang|ja|無何有の郷　～}} Deep Mountain
+** original title: {{lang|ja|クリスタライズシルバー}}
+** source: {{PCB}}
+* {{Track|7|遙か三千大千世界|03:33|lyrics=Lyrics: 遙か三千大千世界}}
+** ''The Distant Universe''
+** arrangement: VALLEYSTONE (Bad Fennec Records)
+** lyrics: Nana Takahashi
+** vocals: Nana Takahashi
+** mix: SOUND HOLIC
+** original title: {{lang|ja|感情の摩天楼　～}} Cosmic Mind
+** source: {{UFO}}
+* {{Track|8|FLYING ASTRYCA|04:01}}
+** arrangement: バルツ
+** lyrics: 
+** vocals: 
+** instrument: バルツ
+** mix: SOUND HOLIC
+** original title: {{lang|ja|大空魔術　～}} Magical Astronomy
+** source: {{MA}}
+* {{Track|9|きせかえ My ハート♡|03:50|lyrics=Lyrics: きせかえ My ハート♡}}
+** ''Changing My Heart''
+** arrangement: MasKaleido
+** lyrics: Nana Takahashi
+** vocals: Nana Takahashi
+** mix: SOUND HOLIC
+** original title: {{lang|ja|亡失のエモーション}}
+** source: {{HM}}
+* {{Track|10|DOUBLE WINGS|04:00|lyrics=Lyrics: DOUBLE WINGS}}
+** arrangement: MasKaleido
+** lyrics: Blue E
+** vocals: YURiCa (cordelia)
+** instrument: Josh
+** mix: SOUND HOLIC
+** original title: {{lang|ja|無間の鐘　～}} Infinite Nightmare
+** source: {{DS}}
+* {{Track|11|GUERRILLA GAME|05:13|lyrics=Lyrics: GUERRILLA GAME}}
+** arrangement: DJ Command (Eurobeat Union)
+** lyrics: Nana Takahashi
+** vocals: Nana Takahashi
+** mix: DJ Command (Eurobeat Union)
+** original title: {{lang|ja|秘境のマーメイド}}
+** original title: {{lang|ja|孤独なウェアウルフ}}
+** original title: {{lang|ja|輝く針の小人族　～}} Little Princess
+** source: {{DDC}}
+* {{Track|12|Apollo 13|06:07}}
+** arrangement: zikee
+** lyrics: 
+** vocals: 
+** mix: SOUND HOLIC
+** original title: {{lang|ja|千年幻想郷　～}} History of the Moon
+** source: {{IN}}
+
+| notes       =
+| review      =
+| print_references =
+}}
