@@ -27,6 +27,8 @@
   },
   "dependencies": {
     "commander": "^2.13.0",
-    "inquirer": "^5.0.1"
+    "deepmerge": "^2.0.1",
+    "inquirer": "^5.0.1",
+    "nodebrainz": "^2.1.1"
   }
 }
