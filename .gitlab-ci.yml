@@ -1,0 +1,6 @@
+image: node:carbon
+
+test:
+  script:
+    - npm install
+    - npm test
