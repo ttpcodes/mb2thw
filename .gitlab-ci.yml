@@ -1,5 +1,9 @@
 image: node:carbon
 
+cache:
+  paths:
+    - node_modules/
+
 test:
   script:
     - npm install
